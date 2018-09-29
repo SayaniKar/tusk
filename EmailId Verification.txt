@@ -1,0 +1,2 @@
+https://www.codebyamir.com/blog/user-account-registration-with-spring-boot  Link to perform verification using email.
+https://hellokoding.com/email-verification-example-with-spring-boot-mysql-docker-compose/ Another Link of Verification using email.
